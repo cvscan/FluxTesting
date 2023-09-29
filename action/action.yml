@@ -2,7 +2,7 @@ name: Setup Flux CLI
 description: A GitHub Action for installing the Flux CLI
 author: Flux project
 branding:
-  color: blue
+  color: red
   icon: command
 inputs:
   version:
